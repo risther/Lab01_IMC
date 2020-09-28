@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratorio01</string>
+    <string name="rp1">Lightweight</string>
+    <string name="rp2">proper weight</string>
+    <string name="rp3">overweight</string>
+    <string name="rp4">obesity</string>
+    <string name="editAltura">Heigth-m</string>
+    <string name="editPeso">Weight-kg</string>
+    <string name="btnCalcular">Calculate</string>
+    <string name="reco1">Try to eat better</string>
+    <string name="reco2">Try to be at your current weight</string>
+    <string name="reco3">Try to reduce your food intake</string>
+    <string name="reco4">Contact a nutritionist</string>
+    <string name="reco1.1">Talk to your health care provider to establish possible causes of low weight and if you need to gain weight.</string>
+    <string name="reco2.1">Maintaining a healthy weight can reduce the risk of chronic diseases associated with overweight and obesity.</string>
+    <string name="reco3.1">People who are overweight or obese are at greater risk for chronic conditions, such as high blood pressure, diabetes, and high cholesterol.</string>
+    <string name="reco4.1">People who are overweight or obese are at greater risk for chronic conditions, such as high blood pressure, diabetes, and high cholesterol.</string>
+</resources>
